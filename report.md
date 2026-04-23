@@ -6,7 +6,7 @@
 
 The sparsity loss is defined as the mean of all gate values:
 
-$$\text{SparsityLoss} = \text{mean}(\sigma(\text{gate\_scores}))$$
+$$\text{SparsityLoss} = \text{mean}(\sigma(\text{gate\scores}))$$
 
 Since gate values are always positive (0 to 1), **L1 regularization** (sum or mean) pushes them toward zero with a constant gradient.
 
