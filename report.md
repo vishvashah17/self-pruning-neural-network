@@ -43,7 +43,7 @@ A successful pruning behavior is observed:
 - **Spike near 0** — Represents pruned (inactive) weights.
 - **Cluster away from 0** — Represents active weights.
 
-📊 Reference: `gate_distribution.png`
+ Reference: `gate_distribution.png`
 
 ---
 
